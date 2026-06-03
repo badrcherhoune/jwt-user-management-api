@@ -121,7 +121,7 @@ Rules:
 
 ## Running the Project
 
-git clone https://github.com/your-username/user-management-api.git
+git clone https://github.com/badrcherhoune/jwt-user-management-api.git
 cd user-management-api
 mvn spring-boot:run
 
